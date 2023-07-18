@@ -21,4 +21,4 @@ I am a Computer Science Student Currently Working In various Projects and Learni
 ---
 [![](https://visitcount.itsvg.in/api?id=YADIDidiah24&icon=2&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/645a9f5ef3d9ecfa51d90417?variant=dark)](https://roadmap.sh)
