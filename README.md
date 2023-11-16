@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science Student Currently Working In various Projects and Learning varions Frameworks.
+I am a Computer Science Student Currently Working On various Projects and Learning a lot of stuff.
 
 
 ## 🌐 Socials:
