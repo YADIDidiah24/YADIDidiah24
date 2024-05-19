@@ -1,6 +1,19 @@
-# 💫 About Me:
-I am a Computer Science Student Currently Working On various Projects and Learning a lot of stuff.
+<h1 align="center">Hi 👋, I'm Yadidiah Kanaparthi</h1>
+<h3 align="center">I am Yadidiah Kanaparthi, a skilled software developer from Dubai with 4+ years of coding experience. Proficient in Python, Java, C/C++, Flask, React, and more, I excel in databases, IoT systems, ML, cybersecurity, and web frameworks. With a BSc in Computer Science (Canadian University Dubai), I've built diverse projects including real estate management systems and ML models for agriculture. Certified in computer networking and data analysis, I'm currently pursuing AWS, CCNA, and TensorFlow certifications.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yadididiah24&label=Profile%20views&color=0e75b6&style=flat" alt="yadididiah24" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadididiah24" alt="yadididiah24" /></a> </p>
+
+- 🔭 I’m currently working on **Real Estate Management System**
+
+- 🌱 I’m currently learning **AWS, CCNA, Three.js, Neural Networks, Docker, TensorFlow**
+
+- 👨‍💻 All of my projects are available at [https://github.com/YADIDidiah24?tab=repositories](https://github.com/YADIDidiah24?tab=repositories)
+
+- 💬 Ask me about **Python, Java, Flask, Django, JS**
+
+- 📫 How to reach me **yadidiah.wrk@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadidiah-kanaparthi-926a7b204/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19885683/yadidiah) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/YADIDidiah24) 
@@ -24,22 +37,7 @@ I am a Computer Science Student Currently Working On various Projects and Learni
 [![roadmap.sh](https://roadmap.sh/card/tall/645a9f5ef3d9ecfa51d90417?variant=dark)](https://roadmap.sh)
 
 
-<h1 align="center">Hi 👋, I'm Yadidiah Kanaparthi</h1>
-<h3 align="center">I am Yadidiah Kanaparthi, a skilled software developer from Dubai with 4+ years of coding experience. Proficient in Python, Java, C/C++, Flask, React, and more, I excel in databases, IoT systems, ML, cybersecurity, and web frameworks. With a BSc in Computer Science (Canadian University Dubai), I've built diverse projects including real estate management systems and ML models for agriculture. Certified in computer networking and data analysis, I'm currently pursuing AWS, CCNA, and TensorFlow certifications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yadididiah24&label=Profile%20views&color=0e75b6&style=flat" alt="yadididiah24" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadididiah24" alt="yadididiah24" /></a> </p>
-
-- 🔭 I’m currently working on **Real Estate Management System**
-
-- 🌱 I’m currently learning **AWS, CCNA, Three.js, Neural Networks, Docker, TensorFlow**
-
-- 👨‍💻 All of my projects are available at [https://github.com/YADIDidiah24?tab=repositories](https://github.com/YADIDidiah24?tab=repositories)
-
-- 💬 Ask me about **Python, Java, Flask, Django, JS**
-
-- 📫 How to reach me **yadidiah.wrk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
