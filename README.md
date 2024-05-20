@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadididiah24&theme=darkhub" alt="yadididiah24" /></a> </p>
 
 
-- 🔭 I’m currently working on **Real Estate Management System**
+- 🔭 I’m currently working on **Chat Messenger using React**
 
 - 🌱 I’m currently learning **AWS, CCNA, Three.js, Neural Networks, Docker, TensorFlow**
 
