@@ -45,6 +45,8 @@
 
 [![roadmap.sh](https://roadmap.sh/card/tall/645a9f5ef3d9ecfa51d90417?variant=dark)](https://roadmap.sh)
 
+Vite Babel React Props EC2 RDS AWS
+
 
 
 
