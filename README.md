@@ -8,11 +8,8 @@
 
 - 🔭 I’m currently working on **Chat Messenger using React**
 
-- 🌱 I’m currently learning **AWS, CCNA, Three.js, Neural Networks, Docker, TensorFlow**
-
 - 👨‍💻 All of my projects are available at [https://github.com/YADIDidiah24?tab=repositories](https://github.com/YADIDidiah24?tab=repositories)
 
-- 💬 Ask me about **Python, Java, Flask, Django, JS**
 
 - 📫 How to reach me **yadidiah.wrk@gmail.com**
 
