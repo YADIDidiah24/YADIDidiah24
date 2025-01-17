@@ -37,12 +37,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadididiah24&" alt="yadididiah24" /></p>
 
----
-[![](https://visitcount.itsvg.in/api?id=YADIDidiah24&icon=2&color=11)](https://visitcount.itsvg.in)
-
 [![roadmap.sh](https://roadmap.sh/card/tall/645a9f5ef3d9ecfa51d90417?variant=dark)](https://roadmap.sh)
 
-Vite Babel React Props EC2 RDS AWS
 
 
 
