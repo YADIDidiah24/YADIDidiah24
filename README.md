@@ -1,5 +1,5 @@
 <h1 align="center">HELLO 👋, I'm Yadidiah Kanaparthi</h1>
-<h3 align="center">I am Yadidiah Kanaparthi, a skilled software developer from Dubai with 4+ years of coding experience. I am Proficient in Python, Java, C/C++, Flask, React, and more, I excel in databases, IoT systems, ML, cybersecurity, and web frameworks. With a BSc in Computer Science (Canadian University Dubai), I've built diverse projects including real estate management systems and ML models for agriculture. Certified in computer networking and data analysis, I'm currently pursuing AWS, CCNA, and TensorFlow certifications.</h3>
+<h3 align="center">I am Yadidiah Kanaparthi, a skilled software developer from Dubai with 4+ years of coding experience. I am Proficient in Python, Java, C/C++, Flask, React, and more, I excel in databases, IoT systems, APi, ML, cybersecurity, and web frameworks. With a BSc in Computer Science (Canadian University Dubai), I've built diverse projects including real estate management systems and ML models for agriculture. Certified in computer networking and data analysis, I'm currently pursuing AWS, CCNA, and TensorFlow certifications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadididiah24&label=Profile%20views&color=brightgreen&style=flat" alt="yadididiah24" /> </p>
 
