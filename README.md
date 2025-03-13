@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yadidiah K</h1>
+<h1 align="center">Hey 👋, I am Yadidiah </h1> nice to see you on this page 😊
 <h3 align="center">A Skilled Data Scientist, Data Analyst, AI Engineer, LLM Specialist, web developer based in Dubai, UAE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadididiah24&label=Profile%20views&color=0e75b6&style=flat" alt="yadididiah24" /> </p>
