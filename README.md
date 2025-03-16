@@ -1,6 +1,6 @@
 <h1 align="center">Hello  👋, I am Yadidiah </h1> Nice to see you on this page 😊
 <h3 align="center">A Skilled Data Scientist, Data Analyst, AI Engineer, LLM Specialist, web developer based in Dubai, UAE</h3>
-
+Web Development, Data Science, Data Analysis, API 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadididiah24&label=Profile%20views&color=0e75b6&style=flat" alt="yadididiah24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadididiah24" alt="yadididiah24" /></a> </p>
