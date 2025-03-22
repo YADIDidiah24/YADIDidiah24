@@ -7,7 +7,7 @@ Web Development, Data Science, Data Analysis, API
 
 - 🔭 I’m currently working on [3-D Image Segmentation And Classification Using nnU-net](https://github.com/YADIDidiah24/AI-Projects/blob/main/nnu_net.py)
 
-- 👯 I’m looking to collaborate on **AI, Data Science, LLMs, BI**
+- 👯 I’m looking to collaborate on **AI, Data Science, LLMs, BI, Data Analytics, Software Development **
 
 - 👨‍💻 All of my projects are available at [https://github.com/YADIDidiah24](https://github.com/YADIDidiah24)
 
