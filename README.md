@@ -9,7 +9,7 @@ Web Development, Data Science, Data Analysis, API
 
 - 👯 I’m looking to collaborate on **AI, Data Science, LLMs, BI, Data Analytics, Software Development **
 
-- 👨‍💻 All of my projects are available at [https://github.com/YADIDidiah24](https://github.com/YADIDidiah24)
+- 👨‍💻 All my projects are available at [https://github.com/YADIDidiah24](https://github.com/YADIDidiah24)
 
 - 📝 I regularly write articles on [https://medium.com/@yadidiah.k](https://medium.com/@yadidiah.k)
 
