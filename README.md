@@ -1,11 +1,11 @@
 <h1 align="center">Hello  👋, I am Yadidiah </h1> Nice to see you on this page 😊
-<h3 align="center">A Skilled Data Scientist, Data Analyst, AI Engineer, LLM Specialist, Web Developer based in Dubai, UAE</h3>
+<h3 align="center"> A Skilled, AI Engineer, LLM Specialist, Data Scientist, Data Analyst, Web Developer based in Dubai, UAE</h3>
 Web Development, Data Science, Data Analysis, API 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadididiah24&label=Profile%20views&color=0e75b6&style=flat" alt="yadididiah24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadididiah24" alt="yadididiah24" /></a> </p>
 
-- 🔭 I’m currently working on [3-D Image Segmentation And Classification Using nnU-net](https://github.com/YADIDidiah24/AI-Projects/blob/main/nnu_net.py)
+- 🔭 My Last project was [3-D Image Segmentation And Classification Using nnU-net](https://github.com/YADIDidiah24/AI-Projects/blob/main/nnu_net.py)
 
 - 👯 I’m looking to collaborate on **AI, Data Science, LLMs, BI, Data Analytics, Software Development **
 
